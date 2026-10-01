@@ -12,6 +12,7 @@ struct ContentView: View {
         NavigationStack{
         ZStack{
             Image(.onbording22)
+            // this is just a random comment
                 .resizable()
                 .scaledToFill()
                 .ignoresSafeArea()
