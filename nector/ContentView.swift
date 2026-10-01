@@ -38,8 +38,9 @@ struct ContentView: View {
                         .frame(width: 250, height: 50)
                         .foregroundStyle(.white)
                         .background(.green)
-                        .cornerRadius(20)
+                        .cornerRadius(30)
                         .padding()
+                    //il change the padding 
                 }
             }
             .padding(.top, 350)
