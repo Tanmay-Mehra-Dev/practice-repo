@@ -9,7 +9,7 @@ import SwiftUI
 
 struct page1: View {
     var body: some View {
-        Text("Hello, World!")
+        Text("bye, World!")
         VStack(spacing:20) {
             Image("Mask Group 2")
                 .resizable()
